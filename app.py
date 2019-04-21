@@ -8,6 +8,7 @@ POST_TEMPLATE = """
 
 {}
 """
+
 blogs = dict() # same as {} # mapping blog_name: Blog object
 
 
