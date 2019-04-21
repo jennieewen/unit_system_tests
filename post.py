@@ -4,10 +4,6 @@ class Post:
         self.content = content
         self.short_description = short_description
 
-    def __repr__(self):
-        return ' blah'
-
-
 
     # converting post to JSON
     def json(self):
